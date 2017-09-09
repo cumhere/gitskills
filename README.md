@@ -1,1 +1,1 @@
-# gitskills
+Creating a git branch is quick.
