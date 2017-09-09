@@ -1,1 +1,1 @@
-Creating a git branch is quick.
+Creating a git branch is quick.master
