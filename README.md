@@ -1,1 +1,1 @@
-Creating a git branch is quick.master
+Creating a git branch is quick.M
